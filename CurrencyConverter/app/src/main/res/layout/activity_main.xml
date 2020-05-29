@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/app_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-medium"
+        android:gravity="center"
+        android:text="Currency Converter"
+        android:textAlignment="center"
+        android:textColor="#C914E8"
+        android:textSize="40sp"
+        android:textStyle="italic" />
+
+    <EditText
+        android:id="@+id/currency_to_converter"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/app_name"
+        android:layout_marginTop="40dp"
+        android:autofillHints="Enter amount in dollars"
+        android:backgroundTint="#DC1616"
+        android:inputType="text"
+        android:padding="20dp"
+        android:textSize="30sp" />
+
+    <Button
+        android:id="@+id/convert_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/currency_to_converter"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:padding="15dp"
+        android:text="Convert" />
+
+</RelativeLayout>
