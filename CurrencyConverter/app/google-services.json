@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "482007165762",
+    "firebase_url": "https://summerofcode-603b1.firebaseio.com",
+    "project_id": "summerofcode-603b1",
+    "storage_bucket": "summerofcode-603b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482007165762:android:61bf9160ff9520a2f476db",
+        "android_client_info": {
+          "package_name": "com.example.googlesummerofcode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482007165762-grbfhslrn01pd66tkie1jd7vh6r5ggco.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.googlesummerofcode",
+            "certificate_hash": "802315b8506b32c17314ef88f68e515f93336e98"
+          }
+        },
+        {
+          "client_id": "482007165762-0rb6760k7rskf9j5uj1l91c15k0b071f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcMVUiz5T6E4LGbexxVAbOXkALkPvnjQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482007165762-0rb6760k7rskf9j5uj1l91c15k0b071f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

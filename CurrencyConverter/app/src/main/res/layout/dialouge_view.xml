@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="200sp"
+    tools:context=".UpdateActivity"
+    >
+
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:fontFamily="@font/robomedium"
+        android:layout_marginLeft="10dp"
+        android:text="Change Password"
+        android:textColor="@color/black"
+        android:textSize="30sp"
+        android:textStyle="normal"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <LinearLayout
+        android:id="@+id/l1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:orientation="vertical"
+        android:padding="15sp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/title">
+
+        <EditText
+            android:id="@+id/password_dialouge"
+            android:layout_width="357dp"
+            android:layout_height="58dp"
+            android:layout_marginStart="15sp"
+            android:layout_marginLeft="10sp"
+            android:ems="10"
+            android:hint="Enter your new password"
+            android:inputType="textPassword"
+            android:textColor="@color/darkgrey"
+            android:textSize="20sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="408dp"
+        android:layout_height="60dp"
+        android:orientation="horizontal"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/l1">
+
+        <Button
+            android:id="@+id/cancle_btn"
+            style="@style/Widget.AppCompat.Button.Borderless"
+            android:layout_width="150dp"
+            android:layout_height="40dp"
+            android:layout_marginLeft="10sp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/button1"
+            android:fontFamily="@font/robomedium"
+            android:text="Cancel"
+            android:textColor="@color/lightgrey"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/update_btn"
+            style="@style/Widget.AppCompat.Button.Borderless"
+            android:layout_width="150dp"
+            android:layout_height="40dp"
+            android:layout_marginLeft="70sp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/button1"
+            android:fontFamily="@font/robomedium"
+            android:text="Update"
+            android:textColor="@color/lightgrey"
+            android:textSize="20sp" />
+
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

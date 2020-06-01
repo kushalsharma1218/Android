@@ -1,3 +1,66 @@
 <resources>
-    <string name="app_name">PracticeApp</string>
+    <string name="app_name">GoogleSummerOfCode</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">LOGIN</string>
+    <string name="donthave">"don't have an id ? Signup."</string>
+    <string name="login">"LOGIN"</string>
+    <string name="lazyvision">LazyVision</string>
+    <string name="developedby">developed by LazyBeans</string>
+    <string name="signup">SIGNUP</string>
+    <string name="alreadyhave">"do not have an id ? Singup."</string>
+    <string name="driving" />
+    <string name="train" />
+    <string name="walking" />
+    <string name="cycling" />
+    <string name="climbing" />
+    <string name="flight" />
+    <string name="todo" />
+    <string name="ocr">OCR</string>
+    <string name="welcome">Welcome!</string>
+    <string name="youremail_lazyvision_com">youremail@lazyvision.in</string>
+    <string name="label_vision">LABEL VISION</string>
+    <string name="edge_vision">EDGE VISION</string>
+    <string name="place_vision">PLACE VISION</string>
+    <string name="text_vision">TEXT VISION</string>
+    <string name="object_vision">OBJECT VISION</string>
+    <string name="face_vision">FACE VISION</string>
+    <string name="logout">LOGOUT</string>
+    <string name="case_no">Case No.</string>
+    <string name="_001idr060520">001IDR060520</string>
+    <string name="status">Status</string>
+    <string name="active">Active</string>
+    <string name="investigating_off">Investigating Off.</string>
+    <string name="ins_aditya_trivedi">Ins. Aditya Trivedi</string>
+    <string name="qq">################</string>
+    <string name="qqq">################</string>
+    <string name="qqqq">######</string>
+    <string name="title_activity_home_try">HomeActivityTry</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="home_second">Home Second</string>
+
+
 </resources>
