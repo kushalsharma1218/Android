@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Android-Instagram-Clone-master.iml" filepath="$PROJECT_DIR$/Android-Instagram-Clone-master.iml" group="Android-Instagram-Clone-master" />
+      <module fileurl="file://$PROJECT_DIR$/app/Android-Instagram-Clone-master-app.iml" filepath="$PROJECT_DIR$/app/Android-Instagram-Clone-master-app.iml" group="Android-Instagram-Clone-master/app" />
+      <module fileurl="file://$PROJECT_DIR$/InstagramClone.iml" filepath="$PROJECT_DIR$/InstagramClone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
