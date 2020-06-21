@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "998708882945",
+    "firebase_url": "https://medicare-master-fe46b.firebaseio.com",
+    "project_id": "medicare-master-fe46b",
+    "storage_bucket": "medicare-master-fe46b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998708882945:android:d545266486f6d1e016da00",
+        "android_client_info": {
+          "package_name": "medicare.sjsu.edu.medicare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998708882945-st330ducckl79dm948n1t4hud2m0c9t3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "medicare.sjsu.edu.medicare",
+            "certificate_hash": "802315b8506b32c17314ef88f68e515f93336e98"
+          }
+        },
+        {
+          "client_id": "998708882945-jm2oj7uqh8ugs2n86bbnpqrqq48nvc42.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9igwOVqQ4q1zmAXV0DQY90QWTXnL7Qk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998708882945-jm2oj7uqh8ugs2n86bbnpqrqq48nvc42.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
