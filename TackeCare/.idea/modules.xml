@@ -3,9 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MediCare.iml" filepath="$PROJECT_DIR$/MediCare.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TackeCare.iml" filepath="$PROJECT_DIR$/TackeCare.iml" group="TackeCare" />
+      <module fileurl="file://$PROJECT_DIR$/app/TackeCare-app.iml" filepath="$PROJECT_DIR$/app/TackeCare-app.iml" group="TackeCare/app" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/medicare-master.iml" filepath="$PROJECT_DIR$/medicare-master.iml" group="medicare-master" />
-      <module fileurl="file://$PROJECT_DIR$/app/medicare-master-app.iml" filepath="$PROJECT_DIR$/app/medicare-master-app.iml" group="medicare-master/app" />
     </modules>
   </component>
 </project>

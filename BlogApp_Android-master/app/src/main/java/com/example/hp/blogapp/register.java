@@ -75,7 +75,7 @@ public class register extends AppCompatActivity {
                             public void onComplete(@NonNull Task<AuthResult> task) {
                                 if(task.isSuccessful()){
                                     Toast.makeText(register.this,"Welcome",Toast.LENGTH_LONG).show();
-                                    Intent acS = new Intent(register.this,AccounrSetup.class);
+                                    Intent acS = new Intent(register.this,AccountSetup.class);
                                     startActivity(acS);
                                     finish();
                                 }
